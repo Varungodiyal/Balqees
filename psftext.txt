@@ -1,0 +1,22 @@
+Text as Text
+
+The JPEG2000 image compression
+technique has been cited by experts
+as a new archiving format for digital
+images. It is both a preservation and
+delivery format, and has been seen
+as a possible alternative to the TIFF
+format which most institutions use
+as a long-term archiving standard.
+Produced by both imaging experts
+and the Joint Photographic Experts
+Group, it is now a recognised ISO
+standard. The standard JPEG file
+format which is so widely in use is
+not yet an ISO standard.
+
+Text as text
+(using outline fonts)
+Text as image
+
+14
